@@ -1,0 +1,122 @@
+Http server listening on port 8001
+Https server listening on port 443
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #1
+Http server listening on port 8001
+Https server listening on port 443
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #2
+Http server listening on port 8001
+Https server listening on port 443
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #3
+Http server listening on port 8001
+Https server listening on port 443
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #4
+Http server listening on port 8001
+Https server listening on port 443
+[0mGET / [32m200 [0m14.762 ms - 394[0m
+[0mGET /stylesheets/style.css [32m200 [0m3.584 ms - 111[0m
+[0mGET /login [32m200 [0m1.894 ms - 468[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.600 ms - 111[0m
+Name : ㅁㄴㅇㄹ
+[0mPOST /users [32m200 [0m14.739 ms - 19[0m
+[0mGET /login [32m200 [0m1.147 ms - 468[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.453 ms - 111[0m
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #5
+Http server listening on port 8001
+Https server listening on port 443
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #6
+Http server listening on port 8001
+Https server listening on port 443
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #7
+Http server listening on port 8001
+Https server listening on port 443
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #8
+Http server listening on port 8001
+Https server listening on port 443
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #9
+Http server listening on port 8001
+Https server listening on port 443
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #10
+Http server listening on port 8001
+Https server listening on port 443
+[0mPOST /users [32m200 [0m18.301 ms - 19[0m
+Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (/home/jovyan/work/node/05_https/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/jovyan/work/node/05_https/node_modules/express/lib/response.js:170:12)
+    at done (/home/jovyan/work/node/05_https/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/home/jovyan/work/node/05_https/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/home/jovyan/work/node/05_https/node_modules/ejs/lib/ejs.js:480:10)
+    at View.render (/home/jovyan/work/node/05_https/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/jovyan/work/node/05_https/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/jovyan/work/node/05_https/node_modules/express/lib/application.js:592:3)
+[0mPOST /users [32m200 [0m1.102 ms - 19[0m
+Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (/home/jovyan/work/node/05_https/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/jovyan/work/node/05_https/node_modules/express/lib/response.js:170:12)
+    at done (/home/jovyan/work/node/05_https/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/home/jovyan/work/node/05_https/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/home/jovyan/work/node/05_https/node_modules/ejs/lib/ejs.js:480:10)
+    at View.render (/home/jovyan/work/node/05_https/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/jovyan/work/node/05_https/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/jovyan/work/node/05_https/node_modules/express/lib/application.js:592:3)
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #11
+Http server listening on port 8001
+Https server listening on port 443
+[0mPOST /users [32m200 [0m18.274 ms - 19[0m
+Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (/home/jovyan/work/node/05_https/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/jovyan/work/node/05_https/node_modules/express/lib/response.js:170:12)
+    at done (/home/jovyan/work/node/05_https/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/home/jovyan/work/node/05_https/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/home/jovyan/work/node/05_https/node_modules/ejs/lib/ejs.js:480:10)
+    at View.render (/home/jovyan/work/node/05_https/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/jovyan/work/node/05_https/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/jovyan/work/node/05_https/node_modules/express/lib/application.js:592:3)
+[0mGET /login [32m200 [0m4.448 ms - 468[0m
+[0mGET /stylesheets/style.css [32m200 [0m3.376 ms - 111[0m
+[0mGET / [32m200 [0m1.412 ms - 393[0m
+[0mGET /login [32m200 [0m1.042 ms - 468[0m
+[0mPOST /users [32m200 [0m1.054 ms - 19[0m
+Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (/home/jovyan/work/node/05_https/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/jovyan/work/node/05_https/node_modules/express/lib/response.js:170:12)
+    at done (/home/jovyan/work/node/05_https/node_modules/express/lib/response.js:1004:10)
+    at tryHandleCache (/home/jovyan/work/node/05_https/node_modules/ejs/lib/ejs.js:257:5)
+    at View.exports.renderFile [as engine] (/home/jovyan/work/node/05_https/node_modules/ejs/lib/ejs.js:480:10)
+    at View.render (/home/jovyan/work/node/05_https/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/jovyan/work/node/05_https/node_modules/express/lib/application.js:640:10)
+    at Function.render (/home/jovyan/work/node/05_https/node_modules/express/lib/application.js:592:3)
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #12
+Http server listening on port 8001
+Https server listening on port 443
