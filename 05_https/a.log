@@ -120,3 +120,158 @@ error: Forever detected script was killed by signal: SIGKILL
 error: Script restart attempt #12
 Http server listening on port 8001
 Https server listening on port 443
+[0mGET / [32m200 [0m14.546 ms - 393[0m
+[0mGET /robots.txt [33m404 [0m2.540 ms - 1013[0m
+[0mGET / [32m200 [0m1.334 ms - 393[0m
+[0mGET /manager/html [33m404 [0m1.474 ms - 1013[0m
+[0mGET / [32m200 [0m0.868 ms - 393[0m
+[0mGET / [32m200 [0m0.829 ms - 393[0m
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::8001
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1355:14)
+    at listenInCluster (net.js:1396:12)
+    at Server.listen (net.js:1480:7)
+    at Object.<anonymous> (/home/jovyan/work/node/05_https/app.js:66:24)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+error: Forever detected script exited with code: 1
+error: Forever detected script was killed by signal: SIGKILL
+Http server listening on port 8001
+Https server listening on port 443
+[0mGET / [32m200 [0m14.875 ms - 393[0m
+[0mGET /users [32m200 [0m1.340 ms - 23[0m
+[0mGET / [32m200 [0m1.189 ms - 393[0m
+[0mGET /stylesheets/style.css [32m200 [0m3.314 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m1.462 ms - 1013[0m
+[0mGET /favicon.ico [33m404 [0m0.926 ms - 1013[0m
+[0mGET / [32m200 [0m0.820 ms - 393[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.719 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m0.784 ms - 1013[0m
+[0mGET /login [32m200 [0m1.184 ms - 468[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.011 ms - -[0m
+[0mGET /login [36m304 [0m1.100 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.449 ms - -[0m
+[0mGET / [32m200 [0m0.881 ms - 393[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.477 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m0.826 ms - 1013[0m
+[0mGET /login [32m200 [0m0.768 ms - 468[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.340 ms - -[0m
+Name : ㅁㄴㅇㄹ
+[0mPOST /users [32m200 [0m14.882 ms - 19[0m
+[0mGET /login [32m200 [0m0.736 ms - 468[0m
+[0mGET / [32m200 [0m0.692 ms - 393[0m
+[0mGET / [32m200 [0m0.733 ms - 393[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.303 ms - -[0m
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #1
+Http server listening on port 8001
+Https server listening on port 443
+[0mGET / [32m200 [0m14.245 ms - 388[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.222 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.541 ms - -[0m
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #2
+Http server listening on port 8001
+Https server listening on port 443
+[0mGET / [32m200 [0m14.166 ms - 391[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.087 ms - -[0m
+[0mGET / [32m200 [0m1.362 ms - 391[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.570 ms - -[0m
+[0mGET / [32m200 [0m0.731 ms - 391[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.300 ms - -[0m
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #3
+Http server listening on port 8001
+Https server listening on port 443
+[0mGET / [32m200 [0m14.057 ms - 384[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.169 ms - -[0m
+[0mGET / [32m200 [0m1.279 ms - 384[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.381 ms - -[0m
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #4
+Http server listening on port 8001
+Https server listening on port 443
+[0mGET / [32m200 [0m15.074 ms - 384[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.298 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.470 ms - -[0m
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #5
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #6
+Http server listening on port 8001
+Https server listening on port 443
+[0mGET / [32m200 [0m14.130 ms - 330[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.158 ms - -[0m
+[0mGET / [32m200 [0m1.455 ms - 330[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.423 ms - -[0m
+[0mGET / [32m200 [0m0.789 ms - 330[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.819 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m1.624 ms - 1013[0m
+[0mGET / [36m304 [0m0.857 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.322 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m1.204 ms - 1013[0m
+[0mGET / [36m304 [0m0.790 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.290 ms - -[0m
+[0mGET / [36m304 [0m0.711 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.245 ms - -[0m
+[0mGET / [36m304 [0m0.587 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.238 ms - -[0m
+[0mGET / [36m304 [0m0.769 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.299 ms - -[0m
+[0mGET / [36m304 [0m0.731 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.337 ms - -[0m
+[0mGET / [36m304 [0m0.756 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.310 ms - -[0m
+[0mGET /login [32m200 [0m1.212 ms - 468[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.252 ms - -[0m
+[0mGET /login [36m304 [0m0.878 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.273 ms - -[0m
+Name : adsf
+[0mPOST /users [32m200 [0m14.684 ms - 11[0m
+[0mGET / [36m304 [0m0.827 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.270 ms - -[0m
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #7
+Http server listening on port 8001
+Https server listening on port 443
+[0mGET / [32m200 [0m16.126 ms - 331[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.111 ms - -[0m
+[0mGET / [36m304 [0m1.648 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.401 ms - -[0m
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #8
+Http server listening on port 8001
+Https server listening on port 443
+[0mGET / [32m200 [0m13.953 ms - 329[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.078 ms - -[0m
+[0mGET / [32m200 [0m1.489 ms - 329[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.446 ms - -[0m
+[0mGET / [32m200 [0m0.806 ms - 329[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.288 ms - -[0m
+[0mGET / [32m200 [0m0.781 ms - 329[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.256 ms - -[0m
+[0mGET / [36m304 [0m0.844 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.284 ms - -[0m
+[0mGET / [32m200 [0m0.823 ms - 329[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.261 ms - -[0m
+error: restarting script because change changed
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #9
+Http server listening on port 8001
+Https server listening on port 443
+error: Forever detected script was killed by signal: SIGKILL

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>iframe</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= iframe_link %></h1>
+      <form id="link_form" method="POST">
+          <input name="link">
+          <button id="link_btn" type="submit">접속</button>
+      </form>
+    <iframe src="<%= iframe_link %>" width="100%" height="400px"></iframe>
+  </body>
+</html>
